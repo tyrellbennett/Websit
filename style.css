@@ -1,3 +1,6 @@
+8 {
+  font-size: 100%;
+}
 body  {
   background-color: red;
   color: DarkSlateBlue;
@@ -13,8 +16,4 @@ h2 {
 }
 h3 {
   color: white;
-}
-/* Website Styles */
-* {
-  font size: 100%;
 }
