@@ -9,14 +9,18 @@ body  {
   font-size: 14px;
 }
 h1 {
+  font-size: 36px;
   color: red;
 }
 h2 {
+  font-size: 24px;
   color: purple;
 }
 h2 {
+  font-size: 18px;
   color: blue;
 }
 h3 {
+  font-size: 15px;
   color: white;
 }
