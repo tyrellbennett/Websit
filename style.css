@@ -11,10 +11,11 @@ body  {
   font-family: Helvetica;
   font-size: 14px;
   margin: 50;
+  background-image: url(images/double-bubble-dark.png);
 }
 h1 {
   font-size: 36px;
-  color: red;
+  color: Yellow;
   font-weight: normal;
   font-style: italic;
   border: 5px solid green;
@@ -23,21 +24,21 @@ h1 {
 }
 h2 {
   font-size: 24px;
-  color: purple;
+  color: dark inherit green;
   font-weight: 900;
   font-style: italic;
   margin-bottom: 20px;
 }
 h2 {
   font-size: 18px;
-  color: blue;
+  color: dark inherit blue;
   font-weight: normal;
   font-style: italic;
   footer {
     padding: 30px;
   }
 }
-h3 {
+section {
   font-size: 15px;
   color: white;
   font-weight: 900;
