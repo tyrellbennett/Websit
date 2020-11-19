@@ -12,6 +12,8 @@ body  {
   font-size: 14px;
   margin: 50;
   background-image: url(images/double-bubble-dark.png);
+  background-repeat: repeat;
+}
 }
 h1 {
   font-size: 36px;
@@ -43,4 +45,10 @@ section {
   color: white;
   font-weight: 900;
   font-style: italic;
+}
+.banner{
+  height: 350px;
+  background-image: url(images/Banner1_960_720.webp);
+  background-size: cover;
+  background-position: center;
 }
